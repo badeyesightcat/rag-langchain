@@ -25,3 +25,8 @@ ipykernel
 
 - Read documents inside a directory and load them into document structures using DocumentLoader, PyPDFLoader, PyMuPDFLoader
 - Once loading documents into structures, Split them into chunks with chunk_size, chunk_overlap, separators, length_functions, etc.
+
+### 03. Embedding
+
+- Use sentence-transformer to generate embeddings
+- Initialize embedding manager and check the embedding dimension
